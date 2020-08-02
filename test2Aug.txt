@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 00F2-E015
+
+ Directory of C:\gkgit
+
+2020-08-02  06:54 PM    <DIR>          .
+2020-08-02  06:54 PM    <DIR>          ..
+2020-08-02  06:53 PM               675 Hello.class
+2020-08-02  06:40 PM               395 Hello.java
+2020-07-19  04:48 PM                25 index.html
+2020-07-21  01:36 PM                70 readme.txt
+2020-07-19  04:48 PM               363 test1111.txt
+2020-08-02  06:54 PM                 0 test2Aug.txt
+2020-08-02  06:50 PM               646 testAug.txt
+2020-07-21  01:27 PM                 0 testhtml.html
+               8 File(s)          2,174 bytes
+               2 Dir(s)   4,126,740,480 bytes free
